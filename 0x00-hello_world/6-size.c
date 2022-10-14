@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	printf("Size of a char: %Idbyte(s)\n", sizeof(char));
-	printf("Size of an int: %Idbyte(s)\n", sizeof(int));
-	printf("Size of a long int: %Idbyte(s)\n", sizeof(long int));
-	printf("Size of a long long int: %Idbytes(s)\n", sizeof(long long int));
-	printf("Size of a float: %Idbytes(s)\n", sizeof(float));
+	printf("Size of a char: %lubyte(s)\n", sizeof(char));
+	printf("Size of an int: %lubyte(s)\n", sizeof(int));
+	printf("Size of a long int: %lubyte(s)\n", sizeof(long int));
+	printf("Size of a long long int: %lubytes(s)\n", sizeof(long long int));
+	printf("Size of a float: %lubytes(s)\n", sizeof(float));
 	return (0);
 }
