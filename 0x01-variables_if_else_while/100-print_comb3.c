@@ -23,8 +23,8 @@ putchar(p);
 
 if (d == '8' && p == '9')
 continue;
-putchar(',')
-putcar(' ')
+putchar(',');
+putchar(' ');
 }
 }
 }
