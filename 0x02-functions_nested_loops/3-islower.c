@@ -4,7 +4,7 @@
  *@c : c is the char to be checked by the checker
  *Retuern: 1 if there is a lowercase otherwise return to 0
  */
-int_slower(int c)
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 		return (1);
