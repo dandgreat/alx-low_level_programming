@@ -1,4 +1,4 @@
-#inlclude "main.h"
+#include "main.h"
 /**
  * _islower - check if character c is lower
  *@c : c is the char to be checked by the checker
