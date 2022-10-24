@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * is written by Daniel glory
+ * is written by Daniel Glory
  * Return: 0
  */
 
